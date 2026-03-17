@@ -1,4 +1,4 @@
-# 🌞 Power Plant Prediction using ANN Regression
+# Power Plant Prediction using ANN Regression
 
 ## 📌 Overview
 
