@@ -41,7 +41,7 @@ To build a regression model that accurately predicts Energy Production for bette
 
 ## 📉 Results
 
-* R² Score: XX
+* R² Score: 0.9329897160687863 (93%)
 
 ## 🚀 How to Run
 
