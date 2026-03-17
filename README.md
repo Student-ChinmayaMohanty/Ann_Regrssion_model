@@ -2,23 +2,24 @@
 
 ## 📌 Overview
 
-This project uses an Artificial Neural Network (ANN) to predict solar power output based on environmental factors like temperature, irradiance, and humidity.
+This project uses an Artificial Neural Network (ANN) regession model predict produced energy as output based on environmental factors like temperature, Vacume, Pressure and Humidity.
 
 ## 🎯 Objective
 
-To build a regression model that accurately predicts solar energy generation for better planning and efficiency.
+To build a regression model that accurately predicts Energy Production for better planning and efficiency.
 
 ## 📊 Dataset
 
 * Features:
+  
+# AT = temprature
+# V = Vacume
+# AP = Pressure
+# RH = Humidity
 
-  * Solar Irradiance
-  * Temperature
-  * Humidity
-  * Wind Speed
 * Target:
 
-  * Power Output (kW)
+ # PE = Produce Energy
 
 ## 🧠 Model Architecture
 
@@ -36,15 +37,10 @@ To build a regression model that accurately predicts solar energy generation for
 
 ## 📈 Evaluation Metrics
 
-* Mean Absolute Error (MAE)
-* Mean Squared Error (MSE)
-* Root Mean Squared Error (RMSE)
 * R² Score
 
 ## 📉 Results
 
-* MAE: XX
-* RMSE: XX
 * R² Score: XX
 
 ## 🚀 How to Run
@@ -57,8 +53,8 @@ To build a regression model that accurately predicts solar energy generation for
 
 ## 📌 Conclusion
 
-The ANN model successfully predicts solar power output with good accuracy and can be used for energy forecasting.
+The ANN model successfully predicts Amount of Energy produced output with good accuracy and can be used for energy forecasting.
 
 ## 🔗 Author
 
-Your Name
+Chinmaya Mohanty
