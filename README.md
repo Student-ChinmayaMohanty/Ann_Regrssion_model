@@ -12,10 +12,10 @@ To build a regression model that accurately predicts Energy Production for bette
 
 * Features:
   
-  AT = temprature
-  V = Vacume
-  AP = Pressure
-  RH = Humidity
+  *AT = temprature
+  *V = Vacume
+  *AP = Pressure
+  *RH = Humidity
 
 * Target:
 
