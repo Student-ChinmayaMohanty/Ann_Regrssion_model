@@ -1,4 +1,4 @@
-# 🌞 Solar Power Prediction using ANN
+# 🌞 Power Plant Prediction using ANN Regression
 
 ## 📌 Overview
 
