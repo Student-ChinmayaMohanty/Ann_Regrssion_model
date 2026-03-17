@@ -19,7 +19,7 @@ To build a regression model that accurately predicts Energy Production for bette
 
 * Target:
 
-   PE = Produce Energy
+  * PE = Produce Energy
 
 ## 🧠 Model Architecture
 
